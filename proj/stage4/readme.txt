@@ -14,9 +14,9 @@ Files:
 load_and_reduce.py - handles loading and processing raw data
 data_barplot_exploration.ipynb - handles creating bar plots to explore data
 data_boxplot_exploration.ipynb - handles creating box plots to explore data
-rf_model_testing.ipynb - handles implementing and evaluating random forest regressors
-
-
+rf_model_testing.ipynb - handles implementing and evaluating random forest regressors, grid search to find parameters
+linear regression + RANSAC.ipynb - handles running and testing linear regression and RANSAC models
+correlation matrix.ipynb - handles correlation plots, basic linear model
 Austin_Animal_Center_Intakes.csv - Raw Intake Data
 Austin_Animal_Center_Outcome.csv - Raw Outcome Data
 
